@@ -1,8 +1,4 @@
 Olá 👋![alt text](Drillpenguin-1.gif)
-![Drillpenguin](https://github.com/shiro171/shiro171/assets/105444486/bf23ff2b-4011-4405-8700-054e3377bdc1 | width=100)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-![Drillpenguin](https://github.com/shiro171/shiro171/assets/105444486/a1bd7c2a-b62f-4977-92a4-363164c24d34.gif | width=100)
 
 
 #aaaaaaa
