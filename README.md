@@ -1,4 +1,7 @@
 Olá 👋![alt text](Drillpenguin-1.gif)
+![Drillpenguin](https://github.com/shiro171/shiro171/assets/105444486/bf23ff2b-4011-4405-8700-054e3377bdc1 | width=100)
+
+
 
 #aaaaaaa
 
