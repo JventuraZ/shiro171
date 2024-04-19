@@ -15,3 +15,6 @@ lorem ispuin loren Lorem Ipsum is simply dummy text of the printing and typesett
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro171)](https://github.com/shiro171/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiro171&layout=donut-vertical)](https://github.com/shiro171/github-readme-stats)
 
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
