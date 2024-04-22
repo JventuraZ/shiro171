@@ -1,4 +1,4 @@
- <img src="https://github.com/shiro171/shiro171/assets/105444486/0285b221-fdb2-495a-b967-c416c1644c13" width="200" style="float: right; margin-right: 10px;">
+ <img align="right" src="https://github.com/shiro171/shiro171/assets/105444486/0285b221-fdb2-495a-b967-c416c1644c13" width="200" style="float: right; margin-right: 10px;">
 
     
 
@@ -17,7 +17,6 @@
   ![S](https://github-readme-stats.vercel.app/api?username=shiro171)
   ![gráfico linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=shiro171&layout=donut-vertical)    
 
- 
 
 
 
