@@ -10,10 +10,8 @@
  
 
 
-  Me chamo João 
+  Atualmente estou focando em aprender como fazer aplicações Web com javascript, aprendendendo como utilizar frameworks e bibliotecas como React, também tenho projetos que busco realizar no futuro utilizando Unity e C++ com Arduino, nesse semestre estou vendo banco de dados e metodologia de linguagens classe/objeto, mais para frente quero aprender a utilizar linguagens focadas em desenvolvimento IA.
 
-  lorem ispuin loren Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.   It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing    software like Aldus PageMaker including versions of Lorem Ipsum
-  
   ![S](https://github-readme-stats.vercel.app/api?username=shiro171)
   ![gráfico linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=shiro171&layout=donut-vertical)    
 
@@ -22,3 +20,6 @@
 
 
  <img src=https://github.com/shiro171/shiro171/assets/105444486/463e5a51-1f9d-4f12-a405-c4862eb7c816 style="float: right; ">
+
+
+![icons8-javascript-48](https://github.com/shiro171/shiro171/assets/105444486/9a195b61-c6d9-4c67-8662-f32d4c9f849d)
