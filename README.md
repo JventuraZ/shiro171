@@ -1,6 +1,6 @@
  <img align="right" src="https://github.com/shiro171/shiro171/assets/105444486/0285b221-fdb2-495a-b967-c416c1644c13" width="200" style="float: right; margin-right: 10px;">
 
-  * Meu linkedin[<img src="https://github.com/shiro171/shiro171/assets/105444486/beadf6ec-6ea9-4b28-8dae-c11fef7e0060" width="    ">](https://www.linkedin.com/in/joão-victor-ventura-9b6126240/)
+  * Meu linkedin [<img src="https://github.com/shiro171/shiro171/assets/105444486/beadf6ec-6ea9-4b28-8dae-c11fef7e0060" width="    ">](https://www.linkedin.com/in/joão-victor-ventura-9b6126240/)
   * 
   * 
  
